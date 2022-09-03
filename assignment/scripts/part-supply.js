@@ -5,9 +5,14 @@ console.log('****** Part Supply *******');
 //    & console.log the variable
 console.log('1. Number of partsNeeded:');
 
+let partsNeeded = 40;
+console.log(partsNeeded);
+
 // 2. Create a variable call 'supplyChanges' set it to an array containing
 //    the following numbers: 3, 5, -6, 0, 7, 11
 console.log('2. Array of supplyChanges:');
+
+let supplyChanges = [3, 5, -6, 0, 7, 11];
 
 // 3. Console log the value of the second item in the 'supplyChanges' array
 console.log('3. Second supplyChange is:');
